@@ -1,4 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-[REPLACE ME!] 
+# Darshan Shah
+![Darshan's Picture](image.jpg)
+** NetID: dshah **
+** GitHub: shan-shan-dar **
+* Pronouns: he/him *
+* Sophomore | Class of 2028 *
+* Major: Cognitive Science and Computer Science *
 
-Add your profile details here
+Hobbies:
+1. Origami
+2. Sitar
+3. Video Games
+4. Research
+5. Creative Writing (Poetry)
+
+Favorite Movie: [In the Mood for Love (2000) ](https://letterboxd.com/film/in-the-mood-for-love/)
