@@ -1,5 +1,5 @@
 # Darshan Shah
-![Darshan's Picture](image.jpg)
+![Darshan's Picture](picture.jpg)
 ** NetID: dshah **
 ** GitHub: shan-shan-dar **
 * Pronouns: he/him *
