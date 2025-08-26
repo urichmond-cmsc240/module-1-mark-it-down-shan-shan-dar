@@ -1,10 +1,10 @@
 # Darshan Shah
 <img src="image.jpg" alt="Alt Text" width="300">
-** NetID: dshah **
-** GitHub: shan-shan-dar **
-* Pronouns: he/him *
-* Sophomore | Class of 2028 *
-* Major: Cognitive Science and Computer Science *
+**NetID: dshah**
+**GitHub: shan-shan-dar**
+*Pronouns: he/him*
+*Sophomore | Class of 2028*
+*Major: Cognitive Science and Computer Science*
 
 Hobbies:
 1. Origami
